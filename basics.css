@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 400px;
+    background-color: rgb(143, 192, 230);
+}
+
+.main{
+    max-width: 500px;
+    width: 100%;
+    height: 100%; 
+    background-color: green;
+    background-image: url(/img2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
